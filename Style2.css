@@ -1,0 +1,42 @@
+body{
+    background-color: floralwhite;
+    margin: auto;
+    width: 99%;
+}
+   
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+}
+ 
+img {
+    height: 400px;
+    width: 400px;
+   
+ }
+
+.projects{
+    display: block;
+    margin: auto;
+    
+}
+.project {
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto;
+ }
+
+ .header {
+    text-align: center;
+    margin: auto;
+ }
+
+ h3 {
+     text-align: center;
+     
+ }
+
+ .subtitle{
+     border: 2px solid black;
+     font-family:'Courier New', Courier, monospace;
+ }
