@@ -38,5 +38,9 @@ img {
 
  .subtitle{
      border: 2px solid black;
-     font-family:'Courier New', Courier, monospace;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     width: auto; 
+
  }
+
+ 
