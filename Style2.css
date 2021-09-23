@@ -43,4 +43,11 @@ img {
 
  }
 
+ .Navigering {
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    height: 50px;
+}
+
  

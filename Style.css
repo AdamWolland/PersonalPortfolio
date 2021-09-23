@@ -14,3 +14,10 @@ p{
 font-family: 'Times New Roman', Times, serif;
 color: dimgray;
 }
+
+.Navigering {
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    height: 50px;
+}
