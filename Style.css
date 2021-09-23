@@ -1,16 +1,89 @@
 body{
     background-color: floralwhite;
+    width: 99%;
+    margin-top: 30px;
 }
 
-h1{
-    color: darkblue;
+h3 {
+    text-align: center;
+    text-decoration: underline;
 }
 
-h2 {
-    color: darkblue;
+
+/*NAVIGERINGSBAR*/
+
+
+.nav-wrapper {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
 }
 
-p{
-font-family: 'Times New Roman', Times, serif;
-color: magenta;
+.left-side {
+	display: flex;
 }
+
+.nav-wrapper > .left-side > div {
+	margin-left: 15px;
+	font-size: 0.9em;
+	text-transform: uppercase;
+}
+
+.nav-link-wrapper {
+	height: 22px;
+	border-bottom: 1px solid transparent;
+	transition: border-bottom 0.5s;
+}
+
+.nav-link-wrapper a {
+	color: #8a8a8a;
+	text-decoration: none;
+	transition: color 0.5s;
+}
+
+.nav-link-wrapper: hover {
+	border-bottom: 1px solid black;
+}
+
+.nav-link-wrapper a:hover {
+	color: black ;
+}
+
+/* PROSJEKTER */
+
+.projects{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.project {
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto;
+ }
+
+
+ img {
+    height: 400px;
+    width: 400px;
+ }
+
+
+ .header {
+    text-align: center;
+    margin: auto;
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-top: 10px;
+ }
+
+ .subtitle {
+     border: 1px solid black;
+     font-family:'Courier New', Courier, monospace;
+     padding: 5px;
+     margin: 10px;
+ }
+
+ 
