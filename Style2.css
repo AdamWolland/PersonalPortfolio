@@ -16,8 +16,10 @@ img {
  }
 
 .projects{
-    display: block;
-    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 10px;
+    margin-top: 10px;
     
 }
 .project {
