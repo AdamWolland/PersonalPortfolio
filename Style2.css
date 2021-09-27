@@ -16,37 +16,36 @@ img {
  }
 
 .projects{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    margin-left: 10px;
-    margin-top: 10px;
-    
+    display: flex;
+    flex-direction: row;  
 }
-.project {
-    display: inline-block;
-    vertical-align: middle;
-    margin: auto;
- }
+
+
+.project{
+    text-align: center;
+    margin: 10px;
+}
 
  .header {
     text-align: center;
-    margin: auto;
+    margin: 10px;
+    
  }
 
  h3 {
      text-align: center;
-     
+     margin: 10px;
+    
  }
 
  .subtitle{
-     border: 2px solid black;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
-     width: 30%; 
+     width: 100%; 
 
  }
 
  .Navigering {
-    background-color: grey;
+    background-color: lightgrey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     height: 50px;
