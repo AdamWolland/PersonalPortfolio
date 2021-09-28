@@ -4,20 +4,25 @@ body{
 
 h1{
     color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
 }
 
 p{
-font-family: 'Times New Roman', Times, serif;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: black;
 }
 
 .Navigering {
-    background-color: grey;
+    background-color: ivory;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     height: 50px;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 60px;
 }
