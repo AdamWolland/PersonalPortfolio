@@ -1,5 +1,10 @@
-body{
-    background-color: ivory;
+body, html{
+    height: 100%;
+    background-image: url("bakgrunnsbilde.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1{
@@ -17,8 +22,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: black;
 }
 
+
+
 .Navigering {
-    background-color: ivory;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     height: 50px;
