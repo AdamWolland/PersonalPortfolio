@@ -22,6 +22,15 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: black;
 }
 
+li{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: black;
+}
+
+strong{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .Navigering {
     display: flex;
     flex-direction: row;
