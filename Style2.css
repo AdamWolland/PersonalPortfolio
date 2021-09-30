@@ -50,8 +50,8 @@ img {
 
  .subtitle{
      font-family: Verdana, Geneva, Tahoma, sans-serif;
-     width: 100%; 
-     text-align: justify;
+     width: 90%; 
+     text-align:justify;
      padding-left: 20px;
      padding-right: 20px;
  }
@@ -59,7 +59,7 @@ img {
  .Navigering {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
-    height: 50px;
+    height: 30px;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 60px;
