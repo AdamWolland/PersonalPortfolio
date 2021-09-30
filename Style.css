@@ -61,3 +61,6 @@ div{
     display: block;
 }
 
+.subtitle{
+    text-align: justify;
+}
