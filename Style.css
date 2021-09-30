@@ -47,10 +47,10 @@ strong{
     color: black;
 }
 
-div{
-    width: 250px;
-    text-align: center;
+.bilde {
+text-align: center;
 }
+
 
 img{
     width: 250px;
@@ -58,4 +58,11 @@ img{
 }
 
 
+div{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    display: block;
+}
 
