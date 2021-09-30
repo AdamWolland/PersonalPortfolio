@@ -73,3 +73,12 @@ div{
 .subtitle{
     text-align: justify;
 }
+
+.footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    height: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightgrey;
+}
