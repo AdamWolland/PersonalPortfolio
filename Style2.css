@@ -1,7 +1,10 @@
 body{
-    background-color: white;
-    margin: auto;
-    width: 99%;
+    height: 100%;
+    background-image: url("bakgrunnsbilde.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
    
 p {
@@ -54,7 +57,6 @@ img {
  }
 
  .Navigering {
-    background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     height: 50px;
