@@ -49,6 +49,7 @@ strong{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 60px;
+    
 }
 
 
@@ -59,21 +60,26 @@ strong{
 }
 
 img{
-    max-width: 100%;
+    width: 320px;
+    height: 500px;
 }
 
 .Image {
-    flex-basis: 40%;
-}
-
-.welcome{ 
-    align-content: center;
+    flex-basis: 25%;
 }
 
 .Text {
-    font-size: 16px;
-    padding-left: 20px;
+    font-size: 22px;
+    padding-left: 15px;
+    padding-right: 15px;
     width: 300px;
+    border: 1px solid black;
+    box-shadow: 3px 4px 20px #363636;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 .footer{
@@ -83,4 +89,4 @@ img{
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: lightgrey;
-} 
+}  
