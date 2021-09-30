@@ -5,6 +5,7 @@ body, html{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 h1{
@@ -22,25 +23,39 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: black;
 }
 
+li{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: black;
+}
+
+strong{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .Navigering {
     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: normal;
     justify-content: space-between;
-    align-items: center;
     background-color: lightgray;
-    height: 7vh;
+    height: 60px;
     width: 100%;
-    position: fixed;
     top: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
     color: black;
 }
 
 div{
     width: 250px;
+    text-align: center;
 }
 
-
-img {
+img{
     width: 250px;
     height: 400px;
 }
+
+
+
