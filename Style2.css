@@ -1,7 +1,10 @@
 body{
-    background-color: white;
-    margin: auto;
-    width: 99%;
+    height: 100%;
+    background-image: url("bakgrunnsbilde.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
    
 p {
@@ -47,17 +50,16 @@ img {
 
  .subtitle{
      font-family: Verdana, Geneva, Tahoma, sans-serif;
-     width: 100%; 
-     text-align: justify;
+     width: 90%; 
+     text-align:justify;
      padding-left: 20px;
      padding-right: 20px;
  }
 
  .Navigering {
-    background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
-    height: 50px;
+    height: 30px;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 60px;
