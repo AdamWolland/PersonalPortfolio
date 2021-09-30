@@ -5,6 +5,7 @@ body, html{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 h1{
@@ -48,10 +49,13 @@ nav hover{
 
 div{
     width: 250px;
+    text-align: center;
 }
 
-
-img {
+img{
     width: 250px;
     height: 400px;
 }
+
+
+
