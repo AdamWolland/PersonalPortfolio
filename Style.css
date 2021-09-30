@@ -22,15 +22,17 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: black;
 }
 
-
-
 .Navigering {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightgray;
+    height: 7vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
-    height: 50px;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 60px;
 }
 
 div{
