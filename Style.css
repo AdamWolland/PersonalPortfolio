@@ -24,14 +24,16 @@ color: black;
 
 .Navigering {
     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: normal;
     justify-content: space-between;
-    align-items: center;
     background-color: lightgray;
-    height: 7vh;
+    height: 60px;
     width: 100%;
-    position: fixed;
     top: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
     color: black;
 }
 
