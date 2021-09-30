@@ -12,6 +12,10 @@ h1{
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.header{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -22,6 +26,11 @@ p{
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: black;
 }
+
+.subtitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    }
 
 li{
 font-family: Verdana, Geneva, Tahoma, sans-serif;
