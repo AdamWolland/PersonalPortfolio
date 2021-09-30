@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body, html{
     height: 100%;
     background-image: url("bakgrunnsbilde.png");
@@ -5,6 +6,11 @@ body, html{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+=======
+body{
+    background-color: ivory;
+    
+>>>>>>> f50060dfade835cc94c5e4ca42501afb9bed5234
 }
 
 h1{
