@@ -73,9 +73,20 @@ img{
     padding-left: 15px;
     padding-right: 15px;
     width: 300px;
+    border: 1px solid black;
+    box-shadow: 3px 4px 20px #363636;
 }
 
 h1{
     text-align: center;
     padding-bottom: 20px;
 }
+
+.footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    height: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightgrey;
+}  
