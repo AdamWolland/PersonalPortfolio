@@ -32,25 +32,20 @@ strong{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+
 .Navigering {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-content: normal;
-    justify-content: space-between;
-    background-color: lightgray;
-    height: 60px;
-    width: 100%;
-    top: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 500;
     color: black;
+    height: 30px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 60px;
 }
 
-div{
-    width: 250px;
-    text-align: center;
+.bilde {
+text-align: center;
 }
+
 
 img{
     width: 250px;
@@ -58,4 +53,11 @@ img{
 }
 
 
+div{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    display: block;
+}
 
