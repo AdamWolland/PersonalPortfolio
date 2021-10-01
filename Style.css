@@ -71,7 +71,6 @@ img{
     font-size: 22px;
     padding-left: 15px;
     width: 300px;
-    
 }
 
 
@@ -79,6 +78,18 @@ img{
 h1{
     text-align: center;
     padding-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+
+.hobbies {
+    text-align: center;
+    padding-left: 20px;
+    font-size: 20px;
+    max-width: 250px;
 }
 
 .footer{
