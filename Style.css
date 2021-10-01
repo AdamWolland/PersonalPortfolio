@@ -3,7 +3,7 @@ body, html{
     background-image: url("bakgrunnsbilde.png");
     height: 100%;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 
 }
@@ -86,9 +86,10 @@ h2{
 
 .hobbies {
     text-align: center;
-    padding-left: 20px;
-    font-size: 20px;
-    max-width: 250px;
+    font-size: 18px;
+    max-width: 300px;
+    margin: 0 auto;
+
 }
 
 .footer{
@@ -99,3 +100,7 @@ h2{
     padding-bottom: 20px;
     background-color: lightgrey;
 }  
+
+.quote{
+    text-align: center;
+}
