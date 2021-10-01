@@ -1,4 +1,4 @@
-#AdamWolland.PersonalPortfolio
+#PersonalPortfolio
 Option a, data1200 
 
 This is a schoolproject for the firs Oblig in data1200.
